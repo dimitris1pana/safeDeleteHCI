@@ -1,5 +1,6 @@
 # SafeDelete By HCI lab University Of Piraeus
-## An idea by Konstantinos Giovas 3rd year student of the department of Informatics to be followed and developed further by the HCI lab at the University of Piraeus
+
+ *An idea by Konstantinos Giovas 3rd year student of the department of Informatics to be followed and developed further by the HCI lab at the University of Piraeus*
 For fast installation and everyday terminal commands, see the [Quick Reference Guide](QUICK_REFERENCE.md).
 For an explanation of every project file and folder, see [Project Structure](PROJECT_STRUCTURE.md).
 For a short classroom usability evaluation, use the [Usability Questionnaire](USABILITY_QUESTIONNAIRE.md).
