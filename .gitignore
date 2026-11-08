@@ -1,0 +1,47 @@
+# Python bytecode and tool caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local Python environments
+.venv/
+venv/
+
+# Coverage reports
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# macOS / Windows file browser metadata
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Personal editor settings and temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local environment configuration (keep shareable examples)
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Logs and local scratch directories
+*.log
+/tmp/
+/temp/
+
+# Optional repository-local quarantine / install staging
+# Default quarantine lives outside the repository. Custom roots elsewhere
+# inside the repository must be added explicitly before using them.
+/quarantine/
+/.safedelete/
+.safedelete-stage-*/
